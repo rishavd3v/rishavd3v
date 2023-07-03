@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning DSA and Full Stack Development.
    
-- 😄 Intrested in Cloud Computing, Open-Source Contribution and Video Editing.
+- 😄 Intrested in Cloud Computing, Open-Source Contribution and Content Creation.
   
 - 🤝 Connect with me on LinkedIn: https://www.linkedin.com/in/rishav01/
   
