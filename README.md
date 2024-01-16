@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Rishav</h2> 
 
-<img align="right" alt="gif" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="gif" width="300" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e472kvyn8rq6elqunfokq1x259qkvrcilnyb5hlp3mc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🎓 B.Tech CSE undergrad.
 
