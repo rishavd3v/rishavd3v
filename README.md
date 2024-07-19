@@ -4,7 +4,9 @@
 
 - 🎓 B.Tech CSE undergrad.
 
-- 🌱 Currently learning DSA and Full Stack Development.
+- 👨‍💻 Full Stack Developer.
+
+- 🌱 Currently learning DSA.
    
 - 😄 Intrested in Cloud Computing, Open-Source and Content Creation.
   
