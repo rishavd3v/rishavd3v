@@ -17,7 +17,7 @@
 </a>
 <a href="https://rishavd3v.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/HashNode%20-grey?style=for-the-badge&logo=hashnode">
 </a>
-<a href="mailto:rishavraj4273@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:rishavr.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 # 💻 Tech Stack:
