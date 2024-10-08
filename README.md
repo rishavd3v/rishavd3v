@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning DSA.
    
-- 😄 Intrested in Cloud Computing, Open-Source and Content Creation.
+- 😄 Intrested in Cloud Computing and Open-Source.
   
 
   
