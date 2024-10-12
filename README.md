@@ -13,19 +13,22 @@
 
   
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/rishav01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:rishavr.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://rishavd3v.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/HashNode%20-grey?style=for-the-badge&logo=hashnode">
-</a>
+<p>
+   <a href="https://www.linkedin.com/in/rishav01" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin">
+   </a>&nbsp;&nbsp;
+   <a href="mailto:rishavr.dev@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail">
+   </a>
+</p>
+
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
+<div align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,postman,vscode,linux,git&perline=14" />
-  </a>
-</p>
+  </p>
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavd3v&show_icons=true&locale=en&layout=compact" alt="rishavd3v" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavd3v&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Github Stats"/>
