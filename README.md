@@ -10,8 +10,6 @@
    
 - 😄 Intrested in Cloud Computing and Open-Source.
   
-
-  
 <div>
    <h2 align="center"> 🌐 Socials</h2>
   <p align="center">
