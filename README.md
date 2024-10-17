@@ -9,8 +9,9 @@
 - 🌱 Currently learning React.
    
 - 😄 Intrested in Cloud Computing and Open-Source.
+<br>
 
-<br> 
+<!--- SOCIALS --->
 <div>
    <h2 align="center"> 🌐 Socials</h2>
   <p align="center">
@@ -19,15 +20,19 @@
   </p>
 </div>
 
-
+<!--- SKILLS --->
 <div>
    <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
    <div align="center">
      <p>
-       <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,postman,vscode,linux,git&perline=14" />
+       <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,postman,vscode,linux,git&perline=12" />
      </p>
    </div>
 </div>
+<hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavd3v&show_icons=true&locale=en&layout=compact" alt="rishavd3v" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavd3v&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Github Stats"/>
+<!--- STATS --->
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavd3v&show_icons=true&locale=en&layout=compact" alt="rishavd3v" width="330" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavd3v&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Github Stats" width="410"/>
+</div>
