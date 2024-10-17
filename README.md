@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <span><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20"></span> I'm Rishav</h2> 
+<h2 align="center">Hi there <span><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"></span> I'm Rishav</h2> 
 
 <img align="right" alt="gif" width="200" src=https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif>
 
@@ -10,8 +10,7 @@
    
 - 😄 Intrested in Cloud Computing and Open-Source.
 
-
-      
+<br> 
 <div>
    <h2 align="center"> 🌐 Socials</h2>
   <p align="center">
