@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋 I'm Rishav</h2> 
+<h2 align="center">Hi there <span><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"></span> I'm Rishav</h2> 
 
-<img align="right" alt="gif" width="280" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e472kvyn8rq6elqunfokq1x259qkvrcilnyb5hlp3mc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="gif" width="200" src=https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif>
 
 - 🎓 B.Tech CSE undergrad.
 
@@ -12,22 +12,22 @@
   
 
   
-## 🌐 Socials:
-<p>
-   <a href="https://www.linkedin.com/in/rishav01" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin">
-   </a>&nbsp;&nbsp;
-   <a href="mailto:rishavr.dev@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail">
-   </a>
-</p>
-
-
-# 💻 Tech Stack:
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,postman,vscode,linux,git&perline=14" />
+<div>
+   <h2 align="center"> 🌐 Socials</h2>
+  <p align="center">
+      <a href="https://www.linkedin.com/in/rishav01" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
+      <a href="mailto:rishavr.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
   </p>
+</div>
+
+
+<div>
+   <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
+   <div align="center">
+     <p>
+       <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,postman,vscode,linux,git&perline=14" />
+     </p>
+   </div>
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavd3v&show_icons=true&locale=en&layout=compact" alt="rishavd3v" />
