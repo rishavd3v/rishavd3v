@@ -34,7 +34,7 @@
 <!--- STATS --->
 <div align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavd3v&show_icons=true&locale=en&layout=compact" alt="rishavd3v" width="330" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavd3v&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=27" alt="Github Stats" width="410"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavd3v&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=25" alt="Github Stats" width="410"/>
 </div>
 <br>
 <!--- BADGES --->
