@@ -6,7 +6,7 @@
 
 - 👨‍💻 Full Stack Developer.
 
-- 🌱 Currently learning React.
+- 🌱 Currently learning DevOps.
    
 - 😄 Intrested in Cloud Computing and Open-Source.
 <br>
